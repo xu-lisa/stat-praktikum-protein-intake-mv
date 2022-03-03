@@ -83,7 +83,7 @@ This step has to be executed only once during the first run of the code.
 This script generates the models as a large BAM file, used for further
 analysis
 
-### Step 5 - 8
+### Step 5 - 8 Visualization 
 
 Generation of the visual graphs used for the interpretation of the data and 
 results. Here the folder name corresponds with the script name for easier 
@@ -110,11 +110,13 @@ used as an example.
 Visualization of the selected lag-lead window influence on the partial 
 effects for easier understanding of the model
 
+### Step 9 - 10 (optional)
+
 **Step 9: Statistical Description**
 
 First analyses to get familiar with the data and explorative data analysis for further questions.
 
-**Step 10: PYTHON (optional)**
+**Step 10: PYTHON**
 
 This is an optional step used for the visualization of the lag-lead 
 concept with help of the `manim` python library, primarly developed by Grant 
