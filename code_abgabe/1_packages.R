@@ -45,21 +45,4 @@ library(magrittr)
 
 theme_set(theme_bw())
 
-#  pkg <- c("cowplot", "DataExplorer", "data.table", "dplyr", "ggplot2",
-# "gridExtra", "mgcv","pammtools","survival", "survminer", "svglite", 
-# "tidyr", "patchwork", "purrr", "extrafont", "magrittr") # still; not all and might change most to tidy_verse 
-# The loop doesnt work sometimes
-# checks if installed/ installs 
-# for (i in 1:length(pkg)){
-#     if(require(pkg[i])){
-#       paste(pkg[i],"package is loaded correctly", sep = ":")
-#     } else {
-#       paste("trying to install" ,pkg[i], sep = ":")
-#       install.packages(pkg[i]) 
-#       if(require(pkg[i])){
-#         paste(pkg[i],"installed and loaded", sep = ":")
-#       } else {
-#         paste("could not install", pkg[i], sep = ":")
-#       }
-#     }
-# }
+
