@@ -73,7 +73,7 @@ they are not installed. <br/>
 `2_function_helpers.R` creates the necessary fonts and helper function for
 further use (mainly visualization helpers). 
 
-### Step 3 ONLY RUN ONCE
+### Step 3 Directory Setup
 
 `3_dir_create.R` sets up the neccesary directories in the **!working path** of user.<br/>
 This step has to be executed only once during the first run of the code.
@@ -114,7 +114,7 @@ effects for easier understanding of the model
 
 **Step 9: Statistical Description**
 
-First analyses to get familiar with the data and explorative data analysis for further questions.
+First analysis to get familiar with the data and exploratory data analysis for further questions.
 
 **Step 10: PYTHON**
 
