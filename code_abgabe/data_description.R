@@ -1,6 +1,6 @@
 #************************ data_description*************************************#
 #*
-#* This Script performs some explorative data analysis for futher questions
+#* This Script performs some exploratory data analysis for futher questions
 #*
 #*
 #*#***************************** Parameters *************************************#
