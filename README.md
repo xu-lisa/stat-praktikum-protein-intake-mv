@@ -108,7 +108,7 @@ used as an example.
 Visualization of the selected lag-lead window influence on the partial 
 effects for easier understanding of the model
 
-**Step 9: PYTHON (optional)**************
+**Step 9: PYTHON (optional)**
 
 This is an optional step used for the visualization of the lag-lead 
 concept with help of the `manim` python library, primarly developed by Grant 
