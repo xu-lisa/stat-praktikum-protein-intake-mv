@@ -17,8 +17,6 @@ Previously the association between protein intake and the risk of death or
 discharge of ICU patients in the hospital was studied. For more information please
 take a look at the following repository by Dr. Andreas Bender: [analysis-protein-intake-2021](https://github.com/adibender/analysis-protein-intake-2021.git) 
 
-For more detailed information about our project and the results take a look at our report:  <br/>
-*Einfluss der Proteinzufuhr auf die Dauer der invasiven Beatmungspflichtigkeit.pdf*
 
 ## Overview
 
