@@ -108,7 +108,7 @@ for(time in 4:21) {
   ex1_time <- data.frame(
     ymin = c(1:11)-0.5,
     ymax = c(2:12)-0.5,
-    C    = rep(c("C2", "C3"), times = c(5, 6)),
+    C    = rep(c("C2", "C3"), times = c(11, 11)),
     xmin = rep(time, 11),
     xmax = rep(time +1, 11))
 
