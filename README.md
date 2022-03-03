@@ -35,7 +35,7 @@ Optional: current python version and the `manim` library (including its dependec
 
 ## Step by step execution
 
-Run the following files in the given order:<br/>
+Run the following files in the folder **code_abgabe** in the given order:<br/>
 
 ### Preparation:
 `1_packages.R`<br/>
