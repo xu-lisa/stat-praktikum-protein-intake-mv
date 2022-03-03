@@ -52,6 +52,8 @@ Run the following files in the given order:<br/>
 `8_lag_lead_partial.R`<br/>
 
 ### Optional:
+**Statistical Description:**<br/>
+`data_description.R` <br/>
 **PYTHON:**<br/>
 `lag_lead_anim.py`<br/>
 `lag_lead_2.py`<br/>
@@ -108,7 +110,11 @@ used as an example.
 Visualization of the selected lag-lead window influence on the partial 
 effects for easier understanding of the model
 
-**Step 9: PYTHON (optional)**
+**Step 9: Statistical Description**
+
+First analyses to get familiar with the data and explorative data analysis for further questions.
+
+**Step 10: PYTHON (optional)**
 
 This is an optional step used for the visualization of the lag-lead 
 concept with help of the `manim` python library, primarly developed by Grant 
